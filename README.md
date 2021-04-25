@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gotazx
+<h1 align=center> 👋 Hi, I’m @Gotazx </h1>
 
 <br>
 
